@@ -1,5 +1,8 @@
 2021-2 capstone design preject 그로쓰4팀 키오조
 
+![졸프](https://user-images.githubusercontent.com/61787171/232199446-959f4511-940f-4cee-a6c5-47909025cce3.jpg)
+
+
 # 프로젝트 개요
  
 무인 터치스크린 키오스크 미적응자들을 위한 음성인식 AI 점원 API 서비스 
