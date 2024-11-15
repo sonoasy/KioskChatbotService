@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/efa5720b-4f39-4807-8653-d45203e7bf3c.png" width="600" height="800"/>
+
+![졸업프로젝트_포스터_](https://github.com/user-attachments/assets/6685b735-1049-4cec-b3e4-df998ae26cf1)
 
 
 # 프로젝트 개요
