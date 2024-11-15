@@ -1,4 +1,3 @@
-2021-2 capstone design preject 그로쓰4팀 키오조
 
 <img src="https://user-images.githubusercontent.com/61787171/232199502-0e057ccf-e083-42d3-a58f-af69050f34b0.jpg" width="600" height="800"/>
 
