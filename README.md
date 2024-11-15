@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/61787171/232199502-0e057ccf-e083-42d3-a58f-af69050f34b0.jpg" width="600" height="800"/>
+<img src="https://github.com/user-attachments/assets/efa5720b-4f39-4807-8653-d45203e7bf3c.png" width="600" height="800"/>
 
 
 # 프로젝트 개요
